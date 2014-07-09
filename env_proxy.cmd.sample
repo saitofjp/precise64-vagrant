@@ -1,0 +1,3 @@
+set VAGRANT_HTTP_PROXY="http://<HOST>:8080/"
+set VAGRANT_HTTPS_PROXY="https://<HOST>:8080/"
+set VAGRANT_NO_PROXY="localhost,127.0.0.1"
